@@ -15,4 +15,4 @@ const Card = ({ name, email, id }) => {
 export default Card;
 
 
-//hi this rohan
+//hi this rohan and this is where i have learned to use git properly
